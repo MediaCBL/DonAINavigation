@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DonAINavigation.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\philx\Documents\Unreal Projects\BombHit\Intermediate\Build\Win64\BombHitEditor\Development\Engine\SharedPCH.Engine.NoShadow.h.obj"
+"C:\Users\philx\Documents\Unreal Projects\BombHit\Plugins\DonAINavigation\Intermediate\Build\Win64\UE4Editor\Development\DonAINavigation\Module.DonAINavigation.cpp.obj"
+"C:\Users\philx\Documents\Unreal Projects\BombHit\Plugins\DonAINavigation\Intermediate\Build\Win64\UE4Editor\Development\DonAINavigation\Module.DonAINavigation.gen.cpp.obj"
+"C:\Users\philx\Documents\Unreal Projects\BombHit\Plugins\DonAINavigation\Intermediate\Build\Win64\UE4Editor\Development\DonAINavigation\Default.rc2.res"
+/OUT:"C:\Users\philx\Documents\Unreal Projects\BombHit\Plugins\DonAINavigation\Intermediate\Build\Win64\UE4Editor\Development\DonAINavigation\UE4Editor-DonAINavigation.lib"
